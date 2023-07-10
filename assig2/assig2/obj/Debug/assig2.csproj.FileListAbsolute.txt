@@ -1,0 +1,24 @@
+C:\Users\yodhe\Desktop\234\assig2\assig2\bin\Debug\assig2.exe.config
+C:\Users\yodhe\Desktop\234\assig2\assig2\bin\Debug\assig2.exe
+C:\Users\yodhe\Desktop\234\assig2\assig2\bin\Debug\assig2.pdb
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.csproj.AssemblyReference.cache
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.Form1.resources
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.Properties.Resources.resources
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.Resource1.resources
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.csproj.GenerateResource.cache
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.csproj.CoreCompileInputs.cache
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.exe
+C:\Users\yodhe\Desktop\234\assig2\assig2\obj\Debug\assig2.pdb
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.csproj.AssemblyReference.cache
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.Form1.resources
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.Properties.Resources.resources
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.Resource1.resources
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.csproj.GenerateResource.cache
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.exe
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\obj\Debug\assig2.pdb
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\bin\Debug\assig2.exe.config
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\bin\Debug\assig2.exe
+C:\Users\Ahmad Alshehri\Desktop\LIU CLASSES\Spring 2023\assig2\assig2\bin\Debug\assig2.pdb
